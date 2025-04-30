@@ -1,12 +1,10 @@
 const readline = require('readline');
 
-// Cria interface para entrada de dados no terminal
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-// Solicita a idade do usuário
 rl.question('Digite sua idade: ', (input) => {
     const idade = parseInt(input);
 
