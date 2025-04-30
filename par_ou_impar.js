@@ -1,12 +1,10 @@
 const readline = require('readline');
 
-// Cria interface para entrada de dados
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-// Solicita ao usuário um número
 rl.question('Digite um número inteiro: ', (input) => {
     const numero = parseInt(input);
 
