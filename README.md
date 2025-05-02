@@ -13,7 +13,7 @@ node -v
 npm -v
 
 Com o node devidamente instalado, clone o repositório:
-git clone https://github.com/Crispim85/Codifica-Exercicio-1/edit/main/README.md
+git clone https://github.com/Crispim85/Codifica-Exercicio-1
 
 E acesse a pasta do projeto:
 cd Codifica-Exercicio-1
