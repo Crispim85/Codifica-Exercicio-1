@@ -13,10 +13,10 @@ node -v
 npm -v
 
 Com o node devidamente instalado, lone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Crispim85/Codifica-Exercicio-1/edit/main/README.md)
 
 E acesse a pasta do projeto:
-cd nome-do-repositorio
+cd Codifica-Exercicio-1
 
 Para executar os programas, escolha um dos arquivos JavaScript e execute com o Node.js, exemplo:
 node fatorial.js
